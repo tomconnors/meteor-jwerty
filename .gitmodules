@@ -1,0 +1,3 @@
+[submodule "lib/jwerty"]
+	path = lib/jwerty
+	url = https://github.com/keithamus/jwerty.git
